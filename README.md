@@ -1,14 +1,15 @@
 # BikeShare
 
 2016 US Bike Share Activity Snapshot
+All the details are present in notebook with markdown cells
 
 --Table of Contents--
-Introduction
-Posing Questions
-Data Collection and Wrangling
-Condensing the Trip Data
-Exploratory Data Analysis
-Statistics
-Visualizations
-Performing Your Own Analysis
-Conclusions
+Introduction<br>
+Posing Questions<br>
+Data Collection and Wrangling<br>
+Condensing the Trip Data<br>
+Exploratory Data Analysis<br><br>
+Statistics<br>
+Visualizations<br>
+Performing Your Own Analysis<br>
+Conclusions<br>
