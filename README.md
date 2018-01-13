@@ -3,7 +3,7 @@
 2016 US Bike Share Activity Snapshot
 All the details are present in notebook with markdown cells
 
---Table of Contents--
+--Table of Contents--<br>
 Introduction<br>
 Posing Questions<br>
 Data Collection and Wrangling<br>
